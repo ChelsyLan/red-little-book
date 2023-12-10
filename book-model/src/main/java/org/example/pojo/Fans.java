@@ -1,7 +1,5 @@
 package org.example.pojo;
 
-import javax.persistence.*;
-
 public class Fans {
     @Id
     private String id;

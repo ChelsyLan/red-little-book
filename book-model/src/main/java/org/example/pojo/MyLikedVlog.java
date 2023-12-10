@@ -1,7 +1,5 @@
 package org.example.pojo;
 
-import javax.persistence.*;
-
 @Table(name = "my_liked_vlog")
 public class MyLikedVlog {
     @Id
